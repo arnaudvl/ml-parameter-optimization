@@ -3,7 +3,7 @@ from sklearn.preprocessing import Imputer
 
 from mlopt.sklearn_tune import AdaBoostClassifierOpt,KNNOpt,LogisticRegressionOpt
 from mlopt.sklearn_tune import RandomForestClassifierOpt,SVCOpt
-from mlopt.xgboost_tune import XGBoostOpt
+from mlopt.xgb_tune import XGBoostOpt
 from mlopt.lgb_tune import LGBMOpt
 
 # For the hyperparameter optimization examples we will use the kaggle dataset
