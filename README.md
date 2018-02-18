@@ -18,7 +18,9 @@ Make sure you have up-to-date versions installed of:
 
 Clone the repository in your local workspace:
 
+```
 git clone https://github.com/arnaudvl/ml-parameter-optimization
+```
 
 ## Functionality
 
